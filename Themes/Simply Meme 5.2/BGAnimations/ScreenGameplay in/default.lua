@@ -72,7 +72,7 @@ local t = Def.ActorFrame{
 	},
 
 	LoadFont("_wendy small")..{
-		Text=GLHF!,
+		Text=text,
 		InitCommand=cmd(Center; diffusealpha,0; shadowlength,1),
 		OnCommand=cmd(accelerate, 0.5; diffusealpha, 1; sleep, 0.66; accelerate, 0.33; zoom, 10; diffusealpha, 0),
 		CurrentSongChangedMessageCommand=function(self)
