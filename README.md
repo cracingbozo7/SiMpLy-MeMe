@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# SiMpLy MeMe
-go crazy
-=======
 # Simply Meme
 Simply Meme is a Simply Love SM5 spin that combines cracingbozo7's Simply Unprofessional and the internet (also, Richerrrd) in a way that any StepMania meme lover will enjoy.
 
